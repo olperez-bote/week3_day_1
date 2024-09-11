@@ -179,22 +179,55 @@ print("Still,",name , "was the best coder on the team and could write",number , 
 
 ##########################################################################################
 # #addition
+
+print(2 + 2)
+
 # #multiplication
+
+print(2 * 2)
+
 # #division
+
+print( 2 / 2)
+
 # #modulo
+
+print(2 % 2) #remainder
+
 # #powers
+
+print (2 ** 2)
+
 # #get the max and min of a number
+
+print(max(2, 3)) #max number of the two
+print(min(2, 3)) #min number of the two
+
 # #round a number
+
+print(round(2.6)) #rounds to the nearest whole number
+
 # # absolute value
+
+print(abs(-2)) #absolute value of the number
+
 # # order of operations
+print(2 + 10 * 10 +3) # order of operations
+
 # #to do more you need to import special math libraries from python
-# #from math import *    
+from math import *    
 # #this goes out and grabs some different math functions we can use
 # #floor method
+
+print(floor(3.7)) #always round down
+
 # #ceil method
+
+print(ceil(3.7)) # always round up
+
 # #sqrt method
 
-
+print(sqrt(36))
 
 
 
