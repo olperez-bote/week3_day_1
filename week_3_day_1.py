@@ -50,10 +50,15 @@
 # # Review
 # create variables for the following :
 # 1. age
+age= "17"
 # 2. name
+name= "Guktenshlatt"
 # 3. song
+song= "Henne$$Y"
 # 4. food
+food= "chicken"
 # 5. number
+number=69
 
 
 # #now include the variables you just made print in the following...
@@ -68,6 +73,13 @@
 # Still, [name] was the best coder on the team and could write [number] lines of code every day. Maybe [song] was [name]’s secret power?
 ##########################################################################################
 
+print("Once upon a time, there was a", age, "old coder named", name, ".")
+
+
+print(name, "liked to hum the song", song, "while coding. It was so annoying that their teammates would throw", food, "until", name, "would stop singing.")
+
+
+print("Still,",name , "was the best coder on the team and could write",number , "lines of code every day. Maybe",song, "was", name, "’s secret power?")
 
 
 
@@ -102,13 +114,13 @@
 # Correcting Invalid Names: Below are some invalid names. Correct them according to the rules:
 
 
-# 1st_name
-# last name
-# email@address
-# percent%
-# variable#name
-# O
-# list
+# first_name
+# lastName
+# email_address
+# percent
+# variable_name
+# Zero
+# list_of_names
 # Creating Valid Names: Create valid names for the following descriptions:
 
 
@@ -129,10 +141,10 @@
 # email_address
 # percentage
 # variable_name
-# 1_variable
-# email@address
-# percentage%
-# i
+# variable_1
+# email_address
+# percentage
+# iphone
 
 
 
